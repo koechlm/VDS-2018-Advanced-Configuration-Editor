@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VDS20xx_DefaultAssoc", "VDS20xx_DefaultAssoc\VDS20xx_DefaultAssoc.csproj", "{4FB5D71C-41CC-45F2-8ED2-F5F5FD353120}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VDS2018.0_DefaultAssoc", "VDS20xx_DefaultAssoc\VDS2018.0_DefaultAssoc.csproj", "{4FB5D71C-41CC-45F2-8ED2-F5F5FD353120}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

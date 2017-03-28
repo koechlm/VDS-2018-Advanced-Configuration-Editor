@@ -7,8 +7,8 @@
     <ProjectGuid>{4FB5D71C-41CC-45F2-8ED2-F5F5FD353120}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VDS20xx_DefaultAssoc</RootNamespace>
-    <AssemblyName>VDS20xx_DefaultAssoc</AssemblyName>
+    <RootNamespace>VDS2018_DefaultAssoc</RootNamespace>
+    <AssemblyName>VDS2018_DefaultAssoc</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -91,6 +91,7 @@
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD-Vanilla.cfg">
       <Link>CAD\Configuration\AutoCAD-Vanilla.cfg</Link>
+      <SubType>Designer</SubType>
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD.cfg">
       <Link>CAD\Configuration\AutoCAD.cfg</Link>
@@ -252,6 +253,7 @@
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\en-US\UIStrings.xml">
       <Link>en-US\UIStrings.xml</Link>
+      <SubType>Designer</SubType>
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\About.ico">
       <Link>Vault\About.ico</Link>
@@ -303,6 +305,7 @@
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\DSLanguages.xml">
       <Link>Vault\DSLanguages.xml</Link>
+      <SubType>Designer</SubType>
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\EditFileDatasheet.ico">
       <Link>Vault\EditFileDatasheet.ico</Link>
@@ -321,6 +324,33 @@
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\NewStandardFolder.ico">
       <Link>Vault\NewStandardFolder.ico</Link>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\InventorDynamicProperties.xml">
+      <Link>CAD\Configuration\InventorDynamicProperties.xml</Link>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCadDynamicProperties.xml">
+      <Link>CAD\Configuration\AutoCadDynamicProperties.xml</Link>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\docx.png">
+      <Link>Vault\Configuration\Item\Icons\docx.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\mdb.png">
+      <Link>Vault\Configuration\Item\Icons\mdb.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\pdf.png">
+      <Link>Vault\Configuration\Item\Icons\pdf.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\pptx.png">
+      <Link>Vault\Configuration\Item\Icons\pptx.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\xlsx.png">
+      <Link>Vault\Configuration\Item\Icons\xlsx.png</Link>
     </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

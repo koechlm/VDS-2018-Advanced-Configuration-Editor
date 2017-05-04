@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>MessageBox</Title>
+			<Shortcut />
+			<Description>System Message with VDS Title</Description>
+			<Author>mkoechl</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Declarations>
+        <Literal>
+          <ID>MessageText</ID>
+        </Literal>
+      </Declarations>
+			<Code Language="PowerShell" Delimiter="~" Kind="-1"><![CDATA[
+[System.Windows.MessageBox]::Show("~MessageText~", "Vault VDS Client")
+]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

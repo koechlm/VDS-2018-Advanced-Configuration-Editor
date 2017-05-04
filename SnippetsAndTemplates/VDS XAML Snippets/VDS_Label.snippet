@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>LabelContent</Title>
+			<Shortcut />
+			<Description>Label Multilang, Fallback</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+        <SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Declarations>
+        <Literal>
+          <ID>LabelID</ID>
+          <Default>LBL</Default>
+        </Literal>
+      </Declarations>
+			<Code Language="XAML" Delimiter="~">
+        <![CDATA[ Content="{Binding UIString[~LabelID~], FallbackValue=Title}" ]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

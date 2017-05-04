@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>DynGridButton</Title>
+			<Shortcut />
+			<Description>Datatrigger for Prop in Dyn.Grid</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+        <SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="XAML" Delimiter="~">
+        <![CDATA[
+<DataTrigger Binding="{Binding Name}" Value="Title">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate>
+                                <DockPanel>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBox Text="{WPF:ValidatedBinding Value}" HorizontalAlignment="Stretch" BorderThickness="0" 
+                                            IsReadOnly="False" Background="WhiteSmoke" ToolTipService.ShowOnDisabled="True" 
+                                            ToolTip="{Binding DataContext.UIString[], FallbackValue=No tooltip defined yet, RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}"
+                                            IsTabStop="False" IsHitTestVisible="True" Padding="5,0,0,5"/>
+                                        <Button Content="{Binding DataContext.UIString[], FallbackValue=My Command, RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" 
+                                            Command="{Binding DataContext.PsCmd[mButtonTemplateClick], RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" HorizontalAlignment="Right"
+                                            ToolTip="{Binding DataContext.UIString[], FallbackValue=No tooltip defined yet, RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" Grid.Column="1" Padding="10,1" Background="#FFDDDDDD" MinWidth="100"/>
+                                    </Grid>
+                                </DockPanel>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </DataTrigger>
+      ]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

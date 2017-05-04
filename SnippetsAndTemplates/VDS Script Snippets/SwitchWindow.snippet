@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SwitchWindow</Title>
+			<Shortcut />
+			<Description>Switch Template for File-,Folder-, CustomObjectWindow</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+        <SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell" Delimiter="~">
+        <![CDATA[
+        
+            $mWindowName = $dsWindow.Name
+                switch($mWindowName)
+		        {
+			        "FileWindow"
+			        {
+				
+			        }
+
+			        "FolderWindow" 
+			        {
+				
+			        }
+
+			        "CustomObjectWindow"
+			        {
+				
+			        }
+			        default
+			        {
+				
+			        }
+		        }
+      ]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>DataContext</Title>
+			<Shortcut />
+			<Description>Access to current window's variables</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Code Language="PowerShell" Delimiter="~"><![CDATA[
+$_DataContext = $dsWindow.DataContext
+$dsDiag.Inspect()
+]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

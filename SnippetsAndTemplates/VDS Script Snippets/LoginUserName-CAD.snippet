@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Login User Name - CAD</Title>
+			<Shortcut />
+			<Description>Get the Name (FirstName, LastName) of current user</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell" Delimiter="~" Kind="-1">
+        <![CDATA[
+  $_UserProps = $vault.AdminService.GetUserByUserId($VaultConnection.UserId)
+  $_User = $_UserProps.Name #(FirstName; LastName are available as well)]]>
+      </Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

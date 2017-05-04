@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>dsWindow.Findname(&lt;Name&gt;)</Title>
+			<Shortcut />
+			<Description>connect to dialog controls</Description>
+      <Author>koechlm</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Declarations>
+        <Literal>
+          <ID>ControlName</ID>
+          <Default></Default>
+        </Literal>
+      </Declarations>
+			<Code Language="PowerShell" Delimiter="~" Kind="-1"><![CDATA[$dsWindow.FindName("~ControlName~").]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

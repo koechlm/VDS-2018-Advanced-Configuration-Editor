@@ -62,6 +62,8 @@
     <Content Include="VDS Script Snippets\If(Prop)(True).snippet" />
     <Content Include="VDS Script Snippets\If(Prop).snippet" />
     <Content Include="VDS Script Snippets\Inspector.snippet" />
+    <Content Include="VDS Script Snippets\Load-VaultExplorerExtension.snippet" />
+    <Content Include="VDS Script Snippets\Load-VaultWebServices.snippet" />
     <Content Include="VDS Script Snippets\LoginUserName-CAD.snippet" />
     <Content Include="VDS Script Snippets\LoginUserName-VLT.snippet" />
     <Content Include="VDS Script Snippets\MessageBox.snippet" />

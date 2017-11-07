@@ -38,7 +38,6 @@
     <Compile Include="Script Templates\CopyProjectFolderTitleToVaultFile.ps1" />
     <Compile Include="Script Templates\CreateFolder_Subfolders_Properties.ps1" />
     <Compile Include="Script Templates\CustomObjectBreadCrumb.ps1" />
-    <Compile Include="Script Templates\Default_QS-Extensions.ps1" />
     <Compile Include="Script Templates\FileOpenDialog.ps1" />
     <Compile Include="Script Templates\FolderBreadCrumb.ps1" />
     <Compile Include="Script Templates\GetUserGroupMembership.ps1" />
@@ -47,6 +46,7 @@
     <Compile Include="Script Templates\myOnPostCloseDialog.ps1" />
     <Compile Include="Script Templates\NumberschemePropInput_OnPostClose.ps1" />
     <Compile Include="Script Templates\PowerShell-Debug.ps1" />
+    <Compile Include="Script Templates\QuickstartExtension.ps1" />
     <Compile Include="Script Templates\SaveAsDialog.ps1" />
     <Compile Include="Script Templates\Unblock_QuickstartScripts.ps1" />
     <Compile Include="Script Templates\VaultConnection.ps1" />
@@ -73,6 +73,7 @@
     <Content Include="VDS Script Snippets\VDS-OK-myOnPostCloseDialog.snippet" />
     <Content Include="VDS Script Snippets\VDS_TextBox.snippet" />
     <Content Include="VDS XAML Snippets\VDS-DynGridButton.snippet" />
+    <Content Include="VDS XAML Snippets\VDS-DynGrid3rdColumnButton.snippet" />
     <Content Include="VDS XAML Snippets\VDS_Label.snippet" />
     <Content Include="VDS XAML Snippets\VDS_TextBox.snippet" />
   </ItemGroup>

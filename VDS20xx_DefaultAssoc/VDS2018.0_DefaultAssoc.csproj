@@ -353,6 +353,16 @@
       <Link>Vault\Configuration\Item\Icons\xlsx.png</Link>
     </Resource>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CAD.Custom\addins\" />
+    <Folder Include="CAD.Custom\Configuration\" />
+    <Folder Include="Vault.Custom\addinVault\Menus\" />
+    <Folder Include="Vault.Custom\Configuration\Eco\" />
+    <Folder Include="Vault.Custom\Configuration\File\" />
+    <Folder Include="Vault.Custom\Configuration\Folder\" />
+    <Folder Include="Vault.Custom\Configuration\Item\Icons\" />
+    <Folder Include="Vault.Custom\Configuration\Task\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

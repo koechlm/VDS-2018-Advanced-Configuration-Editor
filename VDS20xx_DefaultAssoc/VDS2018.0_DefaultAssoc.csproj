@@ -99,6 +99,72 @@
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\Inventor.cfg">
       <Link>CAD\Configuration\Inventor.cfg</Link>
     </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\AssociatedFiles.ps1">
+      <Link>Vault.Custom\addinVault\AssociatedFiles.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Default.ps1">
+      <Link>Vault.Custom\addinVault\Default.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\DerivationTree.ps1">
+      <Link>Vault.Custom\addinVault\DerivationTree.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\FileBOM.ps1">
+      <Link>Vault.Custom\addinVault\FileBOM.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\CreateCustomObject.ps1">
+      <Link>Vault.Custom\addinVault\Menus\CreateCustomObject.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\CreateFile.ps1">
+      <Link>Vault.Custom\addinVault\Menus\CreateFile.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\CreateFolder.ps1">
+      <Link>Vault.Custom\addinVault\Menus\CreateFolder.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\EditCustomObject.ps1">
+      <Link>Vault.Custom\addinVault\Menus\EditCustomObject.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\EditFile.ps1">
+      <Link>Vault.Custom\addinVault\Menus\EditFile.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\EditFolder.ps1">
+      <Link>Vault.Custom\addinVault\Menus\EditFolder.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToInvSibling.ps1">
+      <Link>Vault.Custom\addinVault\Menus\GoToInvSibling.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToReplacedBy.ps1">
+      <Link>Vault.Custom\addinVault\Menus\GoToReplacedBy.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToSelectedFile.ps1">
+      <Link>Vault.Custom\addinVault\Menus\GoToSelectedFile.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToSourceFile.ps1">
+      <Link>Vault.Custom\addinVault\Menus\GoToSourceFile.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\ReserveNumbers.ps1">
+      <Link>Vault.Custom\addinVault\Menus\ReserveNumbers.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\sample1.ps1">
+      <Link>Vault.Custom\addinVault\Menus\sample1.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\Select Folder.ps1">
+      <Link>Vault.Custom\addinVault\Menus\Select Folder.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\ShowAboutDialog.ps1">
+      <Link>Vault.Custom\addinVault\Menus\ShowAboutDialog.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\showCustomHelp.ps1">
+      <Link>Vault.Custom\addinVault\Menus\showCustomHelp.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\ShowLog.ps1">
+      <Link>Vault.Custom\addinVault\Menus\ShowLog.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\QuickstartExtension.ps1">
+      <Link>Vault.Custom\addinVault\QuickstartExtension.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\ReserveFileNumber.ps1">
+      <Link>Vault.Custom\addinVault\ReserveFileNumber.ps1</Link>
+    </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\addinVault\AssociatedFiles.ps1">
       <Link>Vault\addinVault\AssociatedFiles.ps1</Link>
     </None>
@@ -182,6 +248,96 @@
     </Page>
     <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\TubeAndPipe.xaml">
       <Link>CAD\Configuration\TubeAndPipe.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Aufgabe\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Aufgabe\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\CustomObject.xaml">
+      <Link>Vault.Custom\Configuration\CustomObject.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Eco\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Eco\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\File.xaml">
+      <Link>Vault.Custom\Configuration\File.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\FileOffice.xaml">
+      <Link>Vault.Custom\Configuration\FileOffice.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\File\CAD BOM.xaml">
+      <Link>Vault.Custom\Configuration\File\CAD BOM.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\File\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\File\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Folder.xaml">
+      <Link>Vault.Custom\Configuration\Folder.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Folder\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Folder\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\InvSiblings.xaml">
+      <Link>Vault.Custom\Configuration\InvSiblings.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Associated Files.xaml">
+      <Link>Vault.Custom\Configuration\Item\Associated Files.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Item\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Organisation\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Organisation\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Person\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Person\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\ReserveNumbers.xaml">
+      <Link>Vault.Custom\Configuration\ReserveNumbers.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Sendung\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Sendung\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Task\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Task\Datasheet.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Transmittal\Datasheet.xaml">
+      <Link>Vault.Custom\Configuration\Transmittal\Datasheet.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -356,12 +512,272 @@
   <ItemGroup>
     <Folder Include="CAD.Custom\addins\" />
     <Folder Include="CAD.Custom\Configuration\" />
-    <Folder Include="Vault.Custom\addinVault\Menus\" />
-    <Folder Include="Vault.Custom\Configuration\Eco\" />
-    <Folder Include="Vault.Custom\Configuration\File\" />
-    <Folder Include="Vault.Custom\Configuration\Folder\" />
-    <Folder Include="Vault.Custom\Configuration\Item\Icons\" />
-    <Folder Include="Vault.Custom\Configuration\Task\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\search.ico">
+      <Link>Vault.Custom\search.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\About.ico">
+      <Link>Vault.Custom\About.ico</Link>
+    </Resource>
+    <Content Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\QuickstartUtilityLibrary.dll">
+      <Link>Vault.Custom\addinVault\QuickstartUtilityLibrary.dll</Link>
+    </Content>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Claim-add.ico">
+      <Link>Vault.Custom\Claim-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Claim-edit.ico">
+      <Link>Vault.Custom\Claim-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Claim-info.ico">
+      <Link>Vault.Custom\Claim-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Claim-settings.ico">
+      <Link>Vault.Custom\Claim-settings.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ConfigurationVersionHistory.xml">
+      <Link>Vault.Custom\ConfigurationVersionHistory.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\File.xml">
+      <Link>Vault.Custom\Configuration\File.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\FileOffice.xml">
+      <Link>Vault.Custom\Configuration\FileOffice.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\attachment.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\attachment.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\docx.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\docx.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\dwg.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\dwg.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\iam.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\iam.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\idw.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\idw.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\ipn.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\ipn.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\ipt.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\ipt.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\linkedfile.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\linkedfile.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\mdb.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\mdb.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\pdf.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\pdf.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\pptx.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\pptx.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\Primary.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\Primary.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\PrimarySub.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\PrimarySub.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\Secondary.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\Secondary.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\SecondarySub.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\SecondarySub.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\StandardComponent.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\StandardComponent.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\unknown.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\unknown.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Item\Icons\xlsx.png">
+      <Link>Vault.Custom\Configuration\Item\Icons\xlsx.png</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\VaultDynamicProperties.xml">
+      <Link>Vault.Custom\Configuration\VaultDynamicProperties.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\CustomHelpDoc.ico">
+      <Link>Vault.Custom\CustomHelpDoc.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\doc-box-add.ico">
+      <Link>Vault.Custom\doc-box-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\doc-box-edit.ico">
+      <Link>Vault.Custom\doc-box-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\doc-box-info.ico">
+      <Link>Vault.Custom\doc-box-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\doc-box.ico">
+      <Link>Vault.Custom\doc-box.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ECR-add.ico">
+      <Link>Vault.Custom\ECR-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ECR-edit.ico">
+      <Link>Vault.Custom\ECR-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ECR-info.ico">
+      <Link>Vault.Custom\ECR-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ECR.ico">
+      <Link>Vault.Custom\ECR.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\EditCO.ico">
+      <Link>Vault.Custom\EditCO.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\EditCustomObject.ico">
+      <Link>Vault.Custom\EditCustomObject.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\EditFileDatasheet.ico">
+      <Link>Vault.Custom\EditFileDatasheet.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\EditFolderDatasheet.ico">
+      <Link>Vault.Custom\EditFolderDatasheet.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\factory-add.ico">
+      <Link>Vault.Custom\factory-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\factory-edit.ico">
+      <Link>Vault.Custom\factory-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\factory-info.ico">
+      <Link>Vault.Custom\factory-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\factory.ico">
+      <Link>Vault.Custom\factory.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Folder2018.xml">
+      <Link>Vault.Custom\Folder2018.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Lock.ico">
+      <Link>Vault.Custom\Lock.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Log.ico">
+      <Link>Vault.Custom\Log.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\MenuDefinitions.xml">
+      <Link>Vault.Custom\MenuDefinitions.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Milestone-add.ico">
+      <Link>Vault.Custom\Milestone-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Milestone-edit.ico">
+      <Link>Vault.Custom\Milestone-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Milestone-info.ico">
+      <Link>Vault.Custom\Milestone-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Milestone-ok.ico">
+      <Link>Vault.Custom\Milestone-ok.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\NewCO.ico">
+      <Link>Vault.Custom\NewCO.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\NewStandardFile.ico">
+      <Link>Vault.Custom\NewStandardFile.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\NewStandardFolder.ico">
+      <Link>Vault.Custom\NewStandardFolder.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\QR-add.ico">
+      <Link>Vault.Custom\QR-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\QR-edit.ico">
+      <Link>Vault.Custom\QR-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\QR-info.ico">
+      <Link>Vault.Custom\QR-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\QR.ico">
+      <Link>Vault.Custom\QR.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ReservedNumExport.ico">
+      <Link>Vault.Custom\ReservedNumExport.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\ReserveNumbers.ico">
+      <Link>Vault.Custom\ReserveNumbers.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Service-add.ico">
+      <Link>Vault.Custom\Service-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Service-edit.ico">
+      <Link>Vault.Custom\Service-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Service-info.ico">
+      <Link>Vault.Custom\Service-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Service.ico">
+      <Link>Vault.Custom\Service.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\task-add.ico">
+      <Link>Vault.Custom\task-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\task-edit.ico">
+      <Link>Vault.Custom\task-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\task-info.ico">
+      <Link>Vault.Custom\task-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\task.ico">
+      <Link>Vault.Custom\task.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Term-add.ico">
+      <Link>Vault.Custom\Term-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Term-edit.ico">
+      <Link>Vault.Custom\Term-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Term-info.ico">
+      <Link>Vault.Custom\Term-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Term-ok.ico">
+      <Link>Vault.Custom\Term-ok.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\TimOff-add.ico">
+      <Link>Vault.Custom\TimOff-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\TimOff-edit.ico">
+      <Link>Vault.Custom\TimOff-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\TimOff-info.ico">
+      <Link>Vault.Custom\TimOff-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\TimOff.ico">
+      <Link>Vault.Custom\TimOff.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Transmittal-add.ico">
+      <Link>Vault.Custom\Transmittal-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Transmittal-edit.ico">
+      <Link>Vault.Custom\Transmittal-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Transmittal-info.ico">
+      <Link>Vault.Custom\Transmittal-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Transmittal.ico">
+      <Link>Vault.Custom\Transmittal.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\user-w-add.ico">
+      <Link>Vault.Custom\user-w-add.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\user-w-edit.ico">
+      <Link>Vault.Custom\user-w-edit.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\user-w-info.ico">
+      <Link>Vault.Custom\user-w-info.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\user-w.ico">
+      <Link>Vault.Custom\user-w.ico</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\vault.ico">
+      <Link>Vault.Custom\vault.ico</Link>
+    </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

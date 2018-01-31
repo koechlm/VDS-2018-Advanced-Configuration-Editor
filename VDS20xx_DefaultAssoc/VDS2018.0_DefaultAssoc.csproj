@@ -83,33 +83,29 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\addins\breadCrumb.ps1">
-      <Link>CAD\addins\breadCrumb.ps1</Link>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\addins\ADSK.QS.breadCrumb.ps1">
+      <Link>CAD.Custom\addins\ADSK.QS.breadCrumb.ps1</Link>
     </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\addins\Default.ps1">
-      <Link>CAD\addins\Default.ps1</Link>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\addins\ADSK.QS.Default.ps1">
+      <Link>CAD.Custom\addins\ADSK.QS.Default.ps1</Link>
     </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD-Vanilla.cfg">
-      <Link>CAD\Configuration\AutoCAD-Vanilla.cfg</Link>
-      <SubType>Designer</SubType>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCAD.cfg">
+      <Link>CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCAD.cfg</Link>
     </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD.cfg">
-      <Link>CAD\Configuration\AutoCAD.cfg</Link>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCAD.cfg">
+      <Link>CAD.Custom\Configuration\AutoCAD.cfg</Link>
     </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\Inventor.cfg">
-      <Link>CAD\Configuration\Inventor.cfg</Link>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\Inventor.cfg">
+      <Link>CAD.Custom\Configuration\Inventor.cfg</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\ADSK.QS.Default.ps1">
+      <Link>Vault.Custom\addinVault\ADSK.QS.Default.ps1</Link>
+    </None>
+    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\ADSK.QS.FileBOM.ps1">
+      <Link>Vault.Custom\addinVault\ADSK.QS.FileBOM.ps1</Link>
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\AssociatedFiles.ps1">
       <Link>Vault.Custom\addinVault\AssociatedFiles.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Default.ps1">
-      <Link>Vault.Custom\addinVault\Default.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\DerivationTree.ps1">
-      <Link>Vault.Custom\addinVault\DerivationTree.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\FileBOM.ps1">
-      <Link>Vault.Custom\addinVault\FileBOM.ps1</Link>
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\CreateCustomObject.ps1">
       <Link>Vault.Custom\addinVault\Menus\CreateCustomObject.ps1</Link>
@@ -128,18 +124,6 @@
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\EditFolder.ps1">
       <Link>Vault.Custom\addinVault\Menus\EditFolder.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToInvSibling.ps1">
-      <Link>Vault.Custom\addinVault\Menus\GoToInvSibling.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToReplacedBy.ps1">
-      <Link>Vault.Custom\addinVault\Menus\GoToReplacedBy.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToSelectedFile.ps1">
-      <Link>Vault.Custom\addinVault\Menus\GoToSelectedFile.ps1</Link>
-    </None>
-    <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\GoToSourceFile.ps1">
-      <Link>Vault.Custom\addinVault\Menus\GoToSourceFile.ps1</Link>
     </None>
     <None Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\addinVault\Menus\ReserveNumbers.ps1">
       <Link>Vault.Custom\addinVault\Menus\ReserveNumbers.ps1</Link>
@@ -211,43 +195,43 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD-Vanilla.xaml">
-      <Link>CAD\Configuration\AutoCAD-Vanilla.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCAD.xaml">
+      <Link>CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCAD.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCAD.xaml">
-      <Link>CAD\Configuration\AutoCAD.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCAD.xaml">
+      <Link>CAD.Custom\Configuration\AutoCAD.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\CableAndHarness.xaml">
-      <Link>CAD\Configuration\CableAndHarness.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\CableAndHarness.xaml">
+      <Link>CAD.Custom\Configuration\CableAndHarness.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\DesignAccelerator.xaml">
-      <Link>CAD\Configuration\DesignAccelerator.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\DesignAccelerator.xaml">
+      <Link>CAD.Custom\Configuration\DesignAccelerator.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\FrameGenerator.xaml">
-      <Link>CAD\Configuration\FrameGenerator.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\FrameGenerator.xaml">
+      <Link>CAD.Custom\Configuration\FrameGenerator.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\Inventor.xaml">
-      <Link>CAD\Configuration\Inventor.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\Inventor.xaml">
+      <Link>CAD.Custom\Configuration\Inventor.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\SaveCopyAs.xaml">
-      <Link>CAD\Configuration\SaveCopyAs.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\SaveCopyAs.xaml">
+      <Link>CAD.Custom\Configuration\SaveCopyAs.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\TubeAndPipe.xaml">
-      <Link>CAD\Configuration\TubeAndPipe.xaml</Link>
+    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\TubeAndPipe.xaml">
+      <Link>CAD.Custom\Configuration\TubeAndPipe.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -293,11 +277,6 @@
     </Page>
     <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\Folder\Datasheet.xaml">
       <Link>Vault.Custom\Configuration\Folder\Datasheet.xaml</Link>
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\Configuration\InvSiblings.xaml">
-      <Link>Vault.Custom\Configuration\InvSiblings.xaml</Link>
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -483,16 +462,6 @@
     </Resource>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\InventorDynamicProperties.xml">
-      <Link>CAD\Configuration\InventorDynamicProperties.xml</Link>
-    </Resource>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD\Configuration\AutoCadDynamicProperties.xml">
-      <Link>CAD\Configuration\AutoCadDynamicProperties.xml</Link>
-    </Resource>
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault\Configuration\Item\Icons\docx.png">
       <Link>Vault\Configuration\Item\Icons\docx.png</Link>
     </Resource>
@@ -510,13 +479,6 @@
     </Resource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="CAD.Custom\addins\" />
-    <Folder Include="CAD.Custom\Configuration\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\search.ico">
-      <Link>Vault.Custom\search.ico</Link>
-    </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\About.ico">
       <Link>Vault.Custom\About.ico</Link>
     </Resource>
@@ -777,6 +739,17 @@
     </Resource>
     <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\Vault.Custom\vault.ico">
       <Link>Vault.Custom\vault.ico</Link>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCadDynamicProperties.xml">
+      <Link>CAD.Custom\Configuration\AutoCAD-Mechanical\AutoCadDynamicProperties.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\AutoCadDynamicProperties.xml">
+      <Link>CAD.Custom\Configuration\AutoCadDynamicProperties.xml</Link>
+    </Resource>
+    <Resource Include="..\..\..\..\..\..\ProgramData\Autodesk\Vault 2018\Extensions\DataStandard\CAD.Custom\Configuration\InventorDynamicProperties.xml">
+      <Link>CAD.Custom\Configuration\InventorDynamicProperties.xml</Link>
     </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

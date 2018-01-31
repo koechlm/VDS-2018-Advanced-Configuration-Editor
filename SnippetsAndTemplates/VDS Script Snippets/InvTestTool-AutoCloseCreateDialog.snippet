@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>YourTitle</Title>
+			<Shortcut />
+			<Description>Explaination as tooltip</Description>
+			<Author />
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+        <SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell" Delimiter="~">
+        <![CDATA[
+#close Dialog to measure save time, user input excluded (note-auto populate file name and avoid required UDP input)
+			$dsWindow.add_Loaded({
+				$dsWindow.CloseWindowCommand.Execute($this)
+				$dsDiag.Trace("Inv Test Tool MKoe EventHandler: Auto-Close Dialog executed")	
+			})
+      ]]></Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

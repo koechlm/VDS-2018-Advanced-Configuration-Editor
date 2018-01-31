@@ -71,6 +71,7 @@
     <Content Include="VDS Script Snippets\SwitchWindow.snippet" />
     <Content Include="VDS Script Snippets\Trace.snippet" />
     <Content Include="VDS Script Snippets\VDS-OK-myOnPostCloseDialog.snippet" />
+    <Content Include="VDS Script Snippets\InvTestTool-AutoCloseCreateDialog.snippet" />
     <Content Include="VDS Script Snippets\VDS_TextBox.snippet" />
     <Content Include="VDS XAML Snippets\VDS-DynGridButton.snippet" />
     <Content Include="VDS XAML Snippets\VDS-DynGrid3rdColumnButton.snippet" />
